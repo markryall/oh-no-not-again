@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/markryall/oh-no-not-again#readme",
   "devDependencies": {
-    "webpack": "^3.0.0"
+    "webpack": "^3.2.0"
   }
 }
